@@ -1,0 +1,27 @@
+#contenedor{
+    width: 100%;
+    max-width: 600px;
+    padding: 25px, 50px, 10px, 50px;
+    border-top:   1px dashed red;
+    border-right: 1px dotted red;
+    border-bottom: 1px dashed green;
+    border-left: 1px dotted orange;
+}
+
+.primero{
+    height: 50px;
+    width: 30%;
+    max-width: 300px;
+    padding: 25px, 10px, 25px, 10px;
+    border: solid 2px red;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+.segundo{
+    height: 50px;
+    width: 30%;
+    max-width: 300px;
+    padding: 25px, 10px, 25px, 10px;
+    border: solid 2px red;
+}
